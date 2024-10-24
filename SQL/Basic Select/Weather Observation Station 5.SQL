@@ -25,7 +25,6 @@ The STATION table is described as follows:
 where LAT_N is the northern latitude and LONG_W is the western longitude.
 
 Sample Input
-
 For example, CITY has four entries: DEF, ABC, PQRS and WXY.
 
 Sample Output
