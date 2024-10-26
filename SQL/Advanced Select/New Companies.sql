@@ -61,3 +61,4 @@ GROUP BY
     C.FOUNDER 
 ORDER BY 
     C.COMPANY_CODE;
+    
